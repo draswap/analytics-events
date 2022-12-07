@@ -35,6 +35,11 @@
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
   integrity sha512-ooWCrlZP11i8GImSjTHYHLkvFDP48nS4+204nGb1RiX/WXYHmJA2III9/e2DWVabCESdW7hBAEzHRqUn9OUVvQ==
 
+"@draswap/analytics-events@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@draswap/analytics-events/-/analytics-events-1.1.2.tgz#c6d45ac3cd297b2a87e646945fddb01e32375374"
+  integrity sha512-17ZtYWIGQrHYispJzuxU6LDijpBHNladqLt/P/+Wu4Fw9S9lNayISdTca5T/PXvFSnpFNVzmlmdp6duqMY14aQ==
+
 "@eslint/eslintrc@^0.4.3":
   version "0.4.3"
   resolved "https://registry.yarnpkg.com/@eslint/eslintrc/-/eslintrc-0.4.3.tgz#9e42981ef035beb3dd49add17acb96e8ff6f394c"
@@ -705,6 +710,11 @@
   dependencies:
     "@typescript-eslint/types" "5.42.1"
     eslint-visitor-keys "^3.3.0"
+
+"@uniswap/analytics-events@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@uniswap/analytics-events/-/analytics-events-1.1.2.tgz#3fe051cef51cec5a2e9e2cd740ac41aa2a63675a"
+  integrity sha512-Vu9xFdACPZ7TE83WGGHpmrJYf5FMmj7IiC6fn2pYPkaENy+gSr8WOSMfxLAPcWrlTTKzyNc2EWbjVwCt/3SRVw==
 
 JSONStream@^1.0.4:
   version "1.3.5"
